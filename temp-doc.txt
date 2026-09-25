@@ -1,0 +1,8 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+
+O comando utilizado faz uma copia dos ficheiros que tenham o inicio tem- de uma vez só.
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+é um comando de copia de linux para copiar ficheiros entre pastas.
+
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
