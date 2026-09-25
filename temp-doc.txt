@@ -8,5 +8,5 @@ O comando utilizado faz uma copia dos ficheiros que tenham o inicio tem- de uma 
 5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
 
 git add .
-
-teste
+git commit * -m "initial commit"
+git push origin main
