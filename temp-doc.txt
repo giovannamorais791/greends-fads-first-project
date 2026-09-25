@@ -10,3 +10,5 @@ O comando utilizado faz uma copia dos ficheiros que tenham o inicio tem- de uma 
 git add .
 git commit * -m "initial commit"
 git push origin main
+
+aaa
