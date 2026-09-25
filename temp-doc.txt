@@ -6,3 +6,7 @@ O comando utilizado faz uma copia dos ficheiros que tenham o inicio tem- de uma 
 é um comando de copia de linux para copiar ficheiros entre pastas.
 
 5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+
+git add .
+
+teste
